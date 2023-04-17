@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest01
 {
-    // Изменния - 1-1
+    // Изменния - 1 - Изм-1 в отсед.
     internal class Program
     {
         static void Main(string[] args)
